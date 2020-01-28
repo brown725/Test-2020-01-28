@@ -1,0 +1,83 @@
+<style> .textmode { mso-number-format:\@; } </style><div>
+	<table cellspacing="0" cellpadding="3" rules="all" border="1" id="GridView1" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;border-collapse:collapse;">
+		<tr style="color:White;background-color:#006699;font-weight:bold;background-color:#FFFFFF;">
+			<th align="left" scope="col" style="text-decoration:none;white-space:nowrap;background-color:green;">Country (Click for Country Details)</th><th scope="col" style="background-color:green;">Backpacks</th><th scope="col" style="background-color:green;">Pagers</th><th scope="col" style="background-color:green;">RIID</th><th align="left" scope="col">Survey Meters</th><th scope="col">Misc</th><th align="left" scope="col">Total Handhelds</th>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Afghanistan" style="text-decoration:none;">Afghanistan</a></td><td>9</td><td>0</td><td>9</td><td align="left">0</td><td>0</td><td align="left">18</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Armenia" style="text-decoration:none;">Armenia</a></td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">14</td><td align="left">0</td><td>0</td><td align="left">14</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Austria" style="text-decoration:none;">Austria</a></td><td>0</td><td>0</td><td>4</td><td align="left">7</td><td>0</td><td align="left">11</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Azerbaijan" style="text-decoration:none;">Azerbaijan</a></td><td style="background-color:#C2D69B;">19</td><td style="background-color:#C2D69B;">126</td><td style="background-color:#C2D69B;">43</td><td align="left">54</td><td>44</td><td align="left">286</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Belarus" style="text-decoration:none;">Belarus</a></td><td>0</td><td>12</td><td>8</td><td align="left">0</td><td>0</td><td align="left">20</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Bulgaria" style="text-decoration:none;">Bulgaria</a></td><td style="background-color:#C2D69B;">5</td><td style="background-color:#C2D69B;">165</td><td style="background-color:#C2D69B;">35</td><td align="left">72</td><td>0</td><td align="left">277</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=China" style="text-decoration:none;">China</a></td><td>0</td><td>0</td><td>3</td><td align="left">0</td><td>0</td><td align="left">3</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Croatia" style="text-decoration:none;">Croatia</a></td><td style="background-color:#C2D69B;">2</td><td style="background-color:#C2D69B;">27</td><td style="background-color:#C2D69B;">6</td><td align="left">10</td><td>0</td><td align="left">45</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Czech Republic" style="text-decoration:none;">Czech Republic</a></td><td>3</td><td>3</td><td>4</td><td align="left">0</td><td>0</td><td align="left">10</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Djibouti" style="text-decoration:none;">Djibouti</a></td><td style="background-color:#C2D69B;">3</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td align="left">0</td><td>0</td><td align="left">3</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Estonia" style="text-decoration:none;">Estonia</a></td><td>1</td><td>5</td><td>33</td><td align="left">38</td><td>52</td><td align="left">129</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Georgia" style="text-decoration:none;">Georgia</a></td><td style="background-color:#C2D69B;">5</td><td style="background-color:#C2D69B;">191</td><td style="background-color:#C2D69B;">38</td><td align="left">75</td><td>2</td><td align="left">311</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Greece" style="text-decoration:none;">Greece</a></td><td>0</td><td>339</td><td>0</td><td align="left">81</td><td>0</td><td align="left">420</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Hungary" style="text-decoration:none;">Hungary</a></td><td style="background-color:#C2D69B;">15</td><td style="background-color:#C2D69B;">35</td><td style="background-color:#C2D69B;">12</td><td align="left">10</td><td>1</td><td align="left">73</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Iraq" style="text-decoration:none;">Iraq</a></td><td>2</td><td>0</td><td>0</td><td align="left">0</td><td>0</td><td align="left">2</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Israel" style="text-decoration:none;">Israel</a></td><td style="background-color:#C2D69B;">5</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td align="left">0</td><td>0</td><td align="left">5</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Jordan" style="text-decoration:none;">Jordan</a></td><td>4</td><td>40</td><td>15</td><td align="left">9</td><td>0</td><td align="left">68</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Kazakhstan" style="text-decoration:none;">Kazakhstan</a></td><td style="background-color:#C2D69B;">3</td><td style="background-color:#C2D69B;">3</td><td style="background-color:#C2D69B;">47</td><td align="left">0</td><td>0</td><td align="left">53</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Kyrgyzstan" style="text-decoration:none;">Kyrgyzstan</a></td><td>0</td><td>118</td><td>22</td><td align="left">36</td><td>0</td><td align="left">176</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Latvia" style="text-decoration:none;">Latvia</a></td><td style="background-color:#C2D69B;">2</td><td style="background-color:#C2D69B;">52</td><td style="background-color:#C2D69B;">13</td><td align="left">23</td><td>0</td><td align="left">90</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Lithuania" style="text-decoration:none;">Lithuania</a></td><td>3</td><td>79</td><td>19</td><td align="left">34</td><td>0</td><td align="left">135</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Malaysia" style="text-decoration:none;">Malaysia</a></td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">2</td><td align="left">0</td><td>0</td><td align="left">2</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Mexico" style="text-decoration:none;">Mexico</a></td><td>4</td><td>12</td><td>5</td><td align="left">4</td><td>0</td><td align="left">25</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Moldova" style="text-decoration:none;">Moldova</a></td><td style="background-color:#C2D69B;">13</td><td style="background-color:#C2D69B;">66</td><td style="background-color:#C2D69B;">34</td><td align="left">34</td><td>0</td><td align="left">147</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Mongolia" style="text-decoration:none;">Mongolia</a></td><td>0</td><td>130</td><td>19</td><td align="left">39</td><td>0</td><td align="left">188</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Oman" style="text-decoration:none;">Oman</a></td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">4</td><td style="background-color:#C2D69B;">0</td><td align="left">0</td><td>0</td><td align="left">4</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Pakistan" style="text-decoration:none;">Pakistan</a></td><td>0</td><td>0</td><td>1</td><td align="left">0</td><td>0</td><td align="left">1</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Philippines" style="text-decoration:none;">Philippines</a></td><td style="background-color:#C2D69B;">5</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td align="left">1</td><td>0</td><td align="left">6</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Poland" style="text-decoration:none;">Poland</a></td><td>6</td><td>83</td><td>66</td><td align="left">11</td><td>31</td><td align="left">197</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Romania" style="text-decoration:none;">Romania</a></td><td style="background-color:#C2D69B;">5</td><td style="background-color:#C2D69B;">70</td><td style="background-color:#C2D69B;">14</td><td align="left">28</td><td>10</td><td align="left">127</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Russia" style="text-decoration:none;">Russia</a></td><td>0</td><td>735</td><td>318</td><td align="left">24</td><td>0</td><td align="left">1077</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Slovakia" style="text-decoration:none;">Slovakia</a></td><td style="background-color:#C2D69B;">19</td><td style="background-color:#C2D69B;">69</td><td style="background-color:#C2D69B;">17</td><td align="left">21</td><td>83</td><td align="left">209</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Slovenia" style="text-decoration:none;">Slovenia</a></td><td>2</td><td>26</td><td>7</td><td align="left">10</td><td>0</td><td align="left">45</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Tajikistan" style="text-decoration:none;">Tajikistan</a></td><td style="background-color:#C2D69B;">16</td><td style="background-color:#C2D69B;">34</td><td style="background-color:#C2D69B;">8</td><td align="left">8</td><td>0</td><td align="left">66</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Turkey" style="text-decoration:none;">Turkey</a></td><td>0</td><td>105</td><td>8</td><td align="left">17</td><td>0</td><td align="left">130</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Turkmenistan" style="text-decoration:none;">Turkmenistan</a></td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">8</td><td align="left">8</td><td>0</td><td align="left">16</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"><a href="Handhelds-Core-Display3.aspx?Country=Ukraine" style="text-decoration:none;">Ukraine</a></td><td>14</td><td>46</td><td>65</td><td align="left">49</td><td>0</td><td align="left">174</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"><a href="Handhelds-Core-Display3.aspx?Country=Uzbekistan" style="text-decoration:none;">Uzbekistan</a></td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">0</td><td style="background-color:#C2D69B;">22</td><td align="left">0</td><td>0</td><td align="left">22</td>
+		</tr>
+	</table>
+</div>

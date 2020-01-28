@@ -1,0 +1,83 @@
+<div>
+	<table cellspacing="0" cellpadding="3" rules="all" border="1" id="GridView1" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;border-collapse:collapse;">
+		<tr style="color:White;background-color:#006699;font-weight:bold;background-color:#FFFFFF;">
+			<th align="left" scope="col" style="text-decoration:none;white-space:nowrap;background-color:green;">Country (Click for Country Details)</th><th scope="col" style="background-color:green;">Backpacks</th><th scope="col" style="background-color:green;">Pagers</th><th scope="col" style="background-color:green;">RIID</th><th align="left" scope="col" style="background-color:green;">Survey Meters</th><th scope="col" style="background-color:green;">Misc</th><th align="left" scope="col" style="background-color:green;">Total Handhelds</th>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Afghanistan</a></td><td align="right">9</td><td align="right">0</td><td align="right">9</td><td align="right">0</td><td align="right">0</td><td align="right">18</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Armenia</a></td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">14</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">14</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Austria</a></td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">7</td><td align="right">0</td><td align="right">11</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Azerbaijan</a></td><td align="right" style="background-color:#C2D69B;">19</td><td align="right" style="background-color:#C2D69B;">126</td><td align="right" style="background-color:#C2D69B;">43</td><td align="right" style="background-color:#C2D69B;">54</td><td align="right" style="background-color:#C2D69B;">44</td><td align="right" style="background-color:#C2D69B;">286</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Belarus</a></td><td align="right">0</td><td align="right">12</td><td align="right">8</td><td align="right">0</td><td align="right">0</td><td align="right">20</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Bulgaria</a></td><td align="right" style="background-color:#C2D69B;">5</td><td align="right" style="background-color:#C2D69B;">165</td><td align="right" style="background-color:#C2D69B;">35</td><td align="right" style="background-color:#C2D69B;">72</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">277</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> China</a></td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">0</td><td align="right">0</td><td align="right">3</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Croatia</a></td><td align="right" style="background-color:#C2D69B;">2</td><td align="right" style="background-color:#C2D69B;">27</td><td align="right" style="background-color:#C2D69B;">6</td><td align="right" style="background-color:#C2D69B;">10</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">45</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Czech Republic</a></td><td align="right">3</td><td align="right">3</td><td align="right">4</td><td align="right">0</td><td align="right">0</td><td align="right">10</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Djibouti</a></td><td align="right" style="background-color:#C2D69B;">3</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">3</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Estonia</a></td><td align="right">1</td><td align="right">5</td><td align="right">33</td><td align="right">38</td><td align="right">52</td><td align="right">129</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Georgia</a></td><td align="right" style="background-color:#C2D69B;">5</td><td align="right" style="background-color:#C2D69B;">191</td><td align="right" style="background-color:#C2D69B;">38</td><td align="right" style="background-color:#C2D69B;">75</td><td align="right" style="background-color:#C2D69B;">2</td><td align="right" style="background-color:#C2D69B;">311</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Greece</a></td><td align="right">0</td><td align="right">339</td><td align="right">0</td><td align="right">81</td><td align="right">0</td><td align="right">420</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Hungary</a></td><td align="right" style="background-color:#C2D69B;">15</td><td align="right" style="background-color:#C2D69B;">35</td><td align="right" style="background-color:#C2D69B;">12</td><td align="right" style="background-color:#C2D69B;">10</td><td align="right" style="background-color:#C2D69B;">1</td><td align="right" style="background-color:#C2D69B;">73</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Iraq</a></td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Israel</a></td><td align="right" style="background-color:#C2D69B;">5</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">5</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Jordan</a></td><td align="right">4</td><td align="right">40</td><td align="right">15</td><td align="right">9</td><td align="right">0</td><td align="right">68</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Kazakhstan</a></td><td align="right" style="background-color:#C2D69B;">3</td><td align="right" style="background-color:#C2D69B;">3</td><td align="right" style="background-color:#C2D69B;">47</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">53</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Kyrgyzstan</a></td><td align="right">0</td><td align="right">118</td><td align="right">22</td><td align="right">36</td><td align="right">0</td><td align="right">176</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Latvia</a></td><td align="right" style="background-color:#C2D69B;">2</td><td align="right" style="background-color:#C2D69B;">52</td><td align="right" style="background-color:#C2D69B;">13</td><td align="right" style="background-color:#C2D69B;">23</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">90</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Lithuania</a></td><td align="right">3</td><td align="right">79</td><td align="right">19</td><td align="right">34</td><td align="right">0</td><td align="right">135</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Malaysia</a></td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">2</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">2</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Mexico</a></td><td align="right">4</td><td align="right">12</td><td align="right">5</td><td align="right">4</td><td align="right">0</td><td align="right">25</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Moldova</a></td><td align="right" style="background-color:#C2D69B;">13</td><td align="right" style="background-color:#C2D69B;">66</td><td align="right" style="background-color:#C2D69B;">34</td><td align="right" style="background-color:#C2D69B;">34</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">147</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Mongolia</a></td><td align="right">0</td><td align="right">130</td><td align="right">19</td><td align="right">39</td><td align="right">0</td><td align="right">188</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Oman</a></td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">4</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">4</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Pakistan</a></td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">1</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Philippines</a></td><td align="right" style="background-color:#C2D69B;">5</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">1</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">6</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Poland</a></td><td align="right">6</td><td align="right">83</td><td align="right">66</td><td align="right">11</td><td align="right">31</td><td align="right">197</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Romania</a></td><td align="right" style="background-color:#C2D69B;">5</td><td align="right" style="background-color:#C2D69B;">70</td><td align="right" style="background-color:#C2D69B;">14</td><td align="right" style="background-color:#C2D69B;">28</td><td align="right" style="background-color:#C2D69B;">10</td><td align="right" style="background-color:#C2D69B;">127</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Russia</a></td><td align="right">0</td><td align="right">735</td><td align="right">318</td><td align="right">24</td><td align="right">0</td><td align="right">1077</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Slovakia</a></td><td align="right" style="background-color:#C2D69B;">19</td><td align="right" style="background-color:#C2D69B;">69</td><td align="right" style="background-color:#C2D69B;">17</td><td align="right" style="background-color:#C2D69B;">21</td><td align="right" style="background-color:#C2D69B;">83</td><td align="right" style="background-color:#C2D69B;">209</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Slovenia</a></td><td align="right">2</td><td align="right">26</td><td align="right">7</td><td align="right">10</td><td align="right">0</td><td align="right">45</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Tajikistan</a></td><td align="right" style="background-color:#C2D69B;">16</td><td align="right" style="background-color:#C2D69B;">34</td><td align="right" style="background-color:#C2D69B;">8</td><td align="right" style="background-color:#C2D69B;">8</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">66</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Turkey</a></td><td align="right">0</td><td align="right">105</td><td align="right">8</td><td align="right">17</td><td align="right">0</td><td align="right">130</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Turkmenistan</a></td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">8</td><td align="right" style="background-color:#C2D69B;">8</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">16</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;"> Ukraine</a></td><td align="right">14</td><td align="right">46</td><td align="right">65</td><td align="right">49</td><td align="right">0</td><td align="right">174</td>
+		</tr><tr class="textmode" style="color:#000066;background-color:White;">
+			<td style="text-decoration:none;white-space:nowrap;background-color:#C2D69B;"> Uzbekistan</a></td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">22</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">0</td><td align="right" style="background-color:#C2D69B;">22</td>
+		</tr>
+	</table>
+</div>
